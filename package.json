@@ -1,0 +1,31 @@
+{
+  "name": "shitty-qs",
+  "version": "1.0.0",
+  "description": "Shitty query strings parser",
+  "main": "index.js",
+  "dependencies": {
+    "query-string": "^0.4.0"
+  },
+  "devDependencies": {
+    "assert": "^1.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boo1ean/shitty-qs.git"
+  },
+  "keywords": [
+    "query",
+    "query-string",
+    "shitty",
+    "qs"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boo1ean/shitty-qs/issues"
+  },
+  "homepage": "https://github.com/boo1ean/shitty-qs"
+}
